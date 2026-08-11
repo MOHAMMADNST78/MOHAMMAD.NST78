@@ -402,3 +402,4 @@ vless://6f577318-b023-4bf0-b202-bad90ccc7f09@hi.k44lawm.ir:8989?security=none&en
 vless://6f577318-b023-4bf0-b202-bad90ccc7f09@enq.k44lawm.ir:8989?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#MOHAMMAD.NST78
 vless://6f577318-b023-4bf0-b202-bad90ccc7f09@bib.k44lawm.ir:5966?path=%2F%3Fed%3D2052&security=none&encryption=none&host=updates.cdn-apple.com&type=ws#MOHAMMAD.NST78
 vless://6f577318-b023-4bf0-b202-bad90ccc7f09@hihio.k44lawm.ir:4433?path=%2F%3Fed%3D2052&security=none&encryption=none&host=updates.cdn-apple.com&type=ws#MOHAMMAD.NST78
+vless://98518ef7-9885-c2e2-e045-f45555ae28f3@api.codmshop.top:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=appstarsapi1.toriba.ir&fp=chrome&type=ws&allowInsecure=0&sni=appstarsapi1.toriba.ir#%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%F0%9D%91%BB%F0%9D%92%96%F0%9D%92%8F%203
