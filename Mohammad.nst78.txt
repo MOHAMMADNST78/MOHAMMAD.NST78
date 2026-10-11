@@ -95,3 +95,6 @@ vless://ee18d188-14cc-417e-beb1-70e4add6d023@147.45.61.213:443?security=reality&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#TELEGRAM%3A%40EMS_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.157:8080#TELEGRAM%3A%40EMS_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5
+vless://cd0bd679-5760-4dd6-9340-576dd279228f@spiderpanel-development-g5884.lucity.app:443?path=%2Fws%2Fcd0bd679-5760-4dd6-9340-576dd279228f&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=spiderpanel-development-g5884.lucity.app&fp=chrome&type=ws&allowInsecure=0&sni=spiderpanel-development-g5884.lucity.app#TELEGRAM%3A%40EMS_VPN%20VIP
+vless://cd0bd679-5760-4dd6-9340-576dd279228f@spiderpanel-development-g5884.lucity.app:80?path=%2Fhttp-ws%2Fcd0bd679-5760-4dd6-9340-576dd279228f&security=none&encryption=none&host=spiderpanel-development-g5884.lucity.app&type=ws#TELEGRAM%3A%40EMS_VPN%20VIP
+vless://cd0bd679-5760-4dd6-9340-576dd279228f@spiderpanel-development-g5884.lucity.app:443?path=%2Fws%2Fcd0bd679-5760-4dd6-9340-576dd279228f&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=spiderpanel-development-g5884.lucity.app&fp=chrome&type=ws&allowInsecure=0&sni=spiderpanel-development-g5884.lucity.app#TELEGRAM%3A%40EMS_VPN%20VIP
